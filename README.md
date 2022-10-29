@@ -1,5 +1,41 @@
 # worker.templates.do - Templates
 
+```yaml
+Formats:
+  CSV.do: CSV Generation & Transformation API
+  Markdown.do: Markdown Generation & Transformation API
+  ES6.do: ES6 Javascript Generation & Transformation API
+  Typescript.do: Typescript Generation & Transformation API
+  GIF.do: PNG Generation & Transformation API
+  HTM.do: HTML Generation & Transformation APII
+  JSN.do: JSON Generation & Transformation API
+  MP4.do: MPEG4 Generation & Transformation API
+  PNG.do: PNG Generation & Transformation API
+  SVG.do: SVG Generation & Transformation API
+  XML.do: XML Conversion & Transformation API
+  YAML.do: YAML Conversion & Transformation API
+  
+Convert:
+  Convert.do: File Conversion APIs
+  CSV.do: CSV to JSON: https://csv.do/api
+  CSV to YAML: https://csv.do/api
+  HTML to JSON: https://htm.do/api
+  HTML to Markdown: https://markdown.do/api
+  HTML to PDF: https://markdown.do/api
+  Javascript to JSON: https://es6.do/api
+  JSON to CSV: https://csv.do/api
+  JSON to HTML: https://htm.do/api
+  JSON to Javascript: https://es6.do/api
+  JSON to PDF: https://pdf.do/api
+  JSON to Markdown: https://markdown.do/api
+  JSON to YAML: https://yaml.do/api
+  JSON to XML: https://xml.do/api
+  Markdown to JSON: https://markdown.do/api
+  Markdown to HTML: https://markdown.do/api
+  YAML to CSV: https://yaml.do/api
+  YAML to JSON: https://yaml.do/api
+```
+
 ## Getting Started
 
 If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
